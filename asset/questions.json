@@ -1,0 +1,82 @@
+[
+    {
+      "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+      "choice1": "512",
+      "choice2": "1024",
+      "choice3": "500",
+      "choice4": "1000",
+      "answer": 4
+    },
+    {
+      "question": "What does GHz stand for?",
+      "choice1": "Gigahotz",
+      "choice2": "Gigahetz",
+      "choice3": "Gigahertz",
+      "choice4": "Gigahatz",
+      "answer": 3
+    },
+    {
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+      "choice1": "Static",
+      "choice2": "Final",
+      "choice3": "Private",
+      "choice4": "Public",
+      "answer": 2
+    },
+    {
+      "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+      "choice1": "Binary",
+      "choice2": "JavaScript",
+      "choice3": "C++",
+      "choice4": "Python",
+      "answer": 1 
+    },
+    {
+      "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+      "choice1": "HD Graphics 700",
+      "choice2": "HD Graphics 600",
+      "choice3": "HD Graphics 500",
+      "choice4": "HD Graphics 7000",
+      "answer": 3
+    },
+    {
+      "question": "How many kilobytes in one gigabyte (in decimal)?",
+      "choice1": "1024",
+      "choice2": "1000",
+      "choice3": "1048576",
+      "choice4": "1000000",
+      "answer": 4
+    },
+    {
+      "question": "Which computer language would you associate Django framework with?",
+      "choice1": "C#",
+      "choice2": "Python",
+      "choice3": "C++",
+      "choice4": "Java",
+      "answer": 2
+    },
+    {
+      "question": "This mobile OS held the largest market share in 2012.",
+      "choice1": "iOS",
+      "choice2": "Android",
+      "choice3": "BlackBerry",
+      "choice4": "Symbian",
+      "answer": 1
+    },
+    {
+      "question": "In computing, what does LAN stand for?",
+      "choice1": "Local Area Network",
+      "choice2": "Long Antenna Node",
+      "choice3": "Light Access Node",
+      "choice4": "Land Address Navigation",
+      "answer": 1
+    },
+    {
+      "question": "What does the computer software acronym JVM stand for?",
+      "choice1": "Java Vendor Machine",
+      "choice2": "Java Visual Machine",
+      "choice3": "Java Virtual Machine",
+      "choice4": "Just Virtual Machine",
+      "answer": 3
+    }
+  ]
